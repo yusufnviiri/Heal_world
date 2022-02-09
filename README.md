@@ -9,14 +9,18 @@ my first repo
 >To get a local copy running,follow these steps
 
 ## Prerequisites
--code Editor
+-code Editor(preferrably Visual studio code editor)
 -Git
 -Github Account
 
-## setup
+## setup to access the project
 
 -git init
 -git clone https://github.com/yusufnviiri/Hello_world.git
+-cd Hello-world
+-open index.html in the editor/browser to view the project contents
+-open style.css to see the CSS styles used in the project.
+-enjoy
 
 ## Author
 

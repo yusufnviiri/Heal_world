@@ -1,6 +1,5 @@
 # Hello_world
-
-my first repo
+This repository is about creating a header in Html and giving it a color with a color property in CSS
 
 ## Built with
 -HTML
@@ -14,7 +13,7 @@ my first repo
 -Github Account
 
 ## setup to access the project
-
+(go to the terminal in the code editor and put the following git commands)
 -git init
 -git clone https://github.com/yusufnviiri/Hello_world.git
 -cd Hello-world
